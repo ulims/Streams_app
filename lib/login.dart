@@ -26,7 +26,7 @@ class _LoginState extends State<Login> {
             style: TextStyle(
               color: textColor100,
               fontFamily: 'Euclid Circular A',
-              fontSize: 24,
+              fontSize: 25,
               fontWeight: FontWeight.w500,
             ),
           ),
